@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Agri Market Intelligence",
+  "description": "Interactive AI-powered agricultural market intelligence, mandi price prediction, cold storage optimization, and farmer-buyer trading platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
